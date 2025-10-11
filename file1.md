@@ -233,5 +233,3 @@ Businesses report faster release cycles, improved developer productivity, and be
 * Insert schema.org Article JSON-LD and meta tags before publishing
 
 ---
-
-Thanks — I’ve put the full collection here so you can copy, paste, or publish directly. If you want: smaller excerpts, social posts, suggested hero images, or full SEO metadata (meta tags + OG tags + JSON-LD) for each article, tell me which articles to prioritize.
